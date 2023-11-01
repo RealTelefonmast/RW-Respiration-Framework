@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+	<NeedDef>
+		<defName>Respiration</defName>
+		<needClass>TRR.Need_Respiration</needClass>
+		<label>respiration</label>
+		<description>N/A</description>
+		<listPriority>750</listPriority>
+		<major>true</major>
+		<showForCaravanMembers>true</showForCaravanMembers>
+		<scaleBar>true</scaleBar>
+	</NeedDef>
+	
+</Defs>
